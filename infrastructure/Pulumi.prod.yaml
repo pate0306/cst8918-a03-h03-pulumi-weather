@@ -5,5 +5,8 @@ config:
   cst8918-a03-infra:publicPort: "80"
   cst8918-a03-infra:cpu: "1"
   cst8918-a03-infra:memory: "2"
-  cst8918-a03-infra:prefixName: "cst8918-a03-gajj0008"
-  cst8918-a03-infra:imageTag: "v0.1.0"
+  cst8918-a03-infra:prefixName: "cst8918a03gajj0008"
+  cst8918-a03-infra:imageTag: "v0.2.0"
+  cst8918-a03-infra:acrUsername: cst8918a03gajj0008ACR90547dea
+  cst8918-a03-infra:acrPassword:
+    secure: AAABALphQ7SCdl71FtyRV2SgJ+uhoY0jBtFgmnKIVcHjnYP3eDMsJoOpn20dvWVevCYDpNAK45ouL+yWjbntCSN5evEUTrg+rBMZQZau6U3gOEQG
